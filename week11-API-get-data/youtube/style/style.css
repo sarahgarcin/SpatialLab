@@ -1,0 +1,30 @@
+body{
+	margin:10px 50px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+ul{padding:0;}
+li{list-style: none;}
+img{width:100%;}
+
+h1{
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 10px;
+}
+h2{
+	font-weight: normal;
+	margin: 10px;
+}
+
+.colonne{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.data-2{
+	width:46%;
+}
+
+
+

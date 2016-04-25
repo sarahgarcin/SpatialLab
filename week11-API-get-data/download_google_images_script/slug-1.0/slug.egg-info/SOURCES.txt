@@ -1,0 +1,13 @@
+CHANGELOG
+COPYRIGHT
+INSTALL
+LICENSE
+MANIFEST.in
+README
+setup.cfg
+setup.py
+slug/__init__.py
+slug.egg-info/PKG-INFO
+slug.egg-info/SOURCES.txt
+slug.egg-info/dependency_links.txt
+slug.egg-info/top_level.txt
