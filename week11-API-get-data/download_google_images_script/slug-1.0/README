@@ -1,0 +1,13 @@
+slug
+====
+
+Python module to convert str to slug
+
+Nutshell
+--------
+
+Here a simple example to convert html entity to ascii:
+
+    >>> import slug
+    >>> slug.slug(unicode('Hello world', 'UTF-8'))
+    hello-word

@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: slug
+Version: 1.0
+Summary: Python module to convert str to slug
+Home-page: http://www.zikzakmedia.com
+Author: Zikzakmedia SL
+Author-email: zikzak@zikzakmedia.com
+License: GPL-3
+Description: slug
+        ====
+        
+        Python module to convert str to slug
+        
+        Nutshell
+        --------
+        
+        Here a simple example to convert html entity to ascii:
+        
+            >>> import slug
+            >>> slug.slug(unicode('Hello world', 'UTF-8'))
+            hello-word
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
